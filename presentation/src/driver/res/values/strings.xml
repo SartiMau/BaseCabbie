@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BaseCabbie - DriverBeta</string>
+    <string name="login_activity_tv">Driver Login Activity</string>
+    <string name="create_account_activity_tv">Driver Create Account</string>
 </resources>

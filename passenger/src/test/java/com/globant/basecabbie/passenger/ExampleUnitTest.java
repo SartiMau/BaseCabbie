@@ -1,4 +1,4 @@
-package com.globant.passenger;
+package com.globant.basecabbie.passenger;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.globant.driver;
+package com.globant.basecabbie.driver;
 
 import org.junit.Test;
 
