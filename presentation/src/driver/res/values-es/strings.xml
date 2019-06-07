@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BaseCabbie - ConductorBeta</string>
+    <string name="login_activity_tv">Login Activity Conductor</string>
+    <string name="create_account_activity_tv">Crear cuenta Conductor</string>
 </resources>

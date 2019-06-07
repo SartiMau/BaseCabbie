@@ -1,4 +1,4 @@
-package com.globant.passenger;
+package com.globant.basecabbie.driver;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.globant.passenger.test", appContext.getPackageName());
+        assertEquals("com.globant.basecabbie.driver.test", appContext.getPackageName());
     }
 }

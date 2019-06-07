@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BaseCabbie - PassengerBeta</string>
+    <string name="login_activity_tv">Passenger Login Activity</string>
+    <string name="create_account_activity_tv">Passenger Create Account</string>
 </resources>
